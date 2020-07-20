@@ -1,0 +1,5 @@
+ESERCIZIO DB AUTO USATE:
+
+TARGA                                        CASA PRODUTTRICE                    MODELLO                             KM                   ANNO                       CARBURANTE                DESCRIZIONE         PREZZO
+
+STRINGA - VARCHAR(10) - UNIQUE - NOTNULL     STRINGA - VARCHAR(15) - NOTNULL     STRINGA - VARCHAR(30) - NOTNULL     NUMERO - SMALLINT    NUMERO - YEAR - NOTNULL    STRINGA - VARCHAR(20)     STRINGA - TEXT      NUMERO - FLOAT(8,2) - NOTNULL          
